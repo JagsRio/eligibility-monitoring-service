@@ -4,6 +4,8 @@
 
 A robust, production-grade Windows Service designed to monitor the health and performance of a critical data processing pipeline in a healthcare technology environment.
 
+---
+
 ### Key Features
 
 - Runs as a **Windows NT Service** with proper `OnStart`/`OnStop` lifecycle
@@ -17,6 +19,8 @@ A robust, production-grade Windows Service designed to monitor the health and pe
 - Fully **configuration-driven** via `app.config`
 - Comprehensive logging for diagnostics
 
+---
+
 ### Technical Highlights
 
 - Clean separation of monitoring concerns
@@ -25,9 +29,13 @@ A robust, production-grade Windows Service designed to monitor the health and pe
 - Time-windowed execution to avoid peak-hour load
 - Tabular report generation for clear alerting
 
+---
+
 ### Why This Project Stands Out
 
 This service was responsible for **proactive detection** of issues in a system processing thousands of daily transactions across hundreds of clients. It enabled rapid response to outages, data delays, and performance degradation — directly impacting customer satisfaction and operational reliability.
+
+---
 
 ## 🔒 Read‑Only Usage Notice
 
@@ -49,4 +57,5 @@ A full license file in this repository reinforces these restrictions.
 ## 📌 Notes
 
 This code is intentionally incomplete and non‑functional.  
+
 Its purpose is to demonstrate **architecture**, **coding style**, and **automation expertise**, not to operate against any real software.
