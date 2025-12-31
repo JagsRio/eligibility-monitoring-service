@@ -2,8 +2,7 @@
 ' HealthCheck Monitoring Windows Service (Sanitized Portfolio Version)
 ' Language: VB.NET (.NET Framework)
 ' Purpose:  Demonstration of a background monitoring service architecture
-' Author:   [Your Name]
-' GitHub:   https://github.com/[your-username]
+' Author:   [Jags]
 ' ===============================================================================
 
 Imports System.Timers
@@ -122,3 +121,4 @@ Public Class HealthCheckMonitorService
     End Sub
 
 End Class
+
